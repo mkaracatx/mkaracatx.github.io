@@ -1,0 +1,39 @@
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  height:300px;
+  width:300px;
+
+}
+table, th, td {
+  border: 1px solid black;
+
+}
+.norm{
+  height:300px;
+  width:300px;
+}
+.hidden{
+  overflow: hidden;
+}
+.middle{
+  text-align: left;
+  width:1000px;
+}
+.eightfive {
+  scale : 50%;
+  width: 85%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  text-align: center;
+}
+.img-middle{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
